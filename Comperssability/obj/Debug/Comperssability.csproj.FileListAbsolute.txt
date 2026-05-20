@@ -1,0 +1,79 @@
+C:\Users\user\source\repos\Comperssability\Comperssability\bin\Debug\Comperssability.exe.config
+C:\Users\user\source\repos\Comperssability\Comperssability\bin\Debug\Comperssability.exe
+C:\Users\user\source\repos\Comperssability\Comperssability\bin\Debug\Comperssability.pdb
+C:\Users\user\source\repos\Comperssability\Comperssability\obj\Debug\Comperssability.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Comperssability\Comperssability\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Comperssability\Comperssability\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Comperssability\Comperssability\obj\Debug\Comperssability_MarkupCompile.cache
+C:\Users\user\source\repos\Comperssability\Comperssability\obj\Debug\Comperssability_MarkupCompile.lref
+C:\Users\user\source\repos\Comperssability\Comperssability\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\Comperssability\Comperssability\obj\Debug\Comperssability.g.resources
+C:\Users\user\source\repos\Comperssability\Comperssability\obj\Debug\Comperssability.Properties.Resources.resources
+C:\Users\user\source\repos\Comperssability\Comperssability\obj\Debug\Comperssability.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Comperssability\Comperssability\obj\Debug\Comperssability.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Comperssability\Comperssability\obj\Debug\Comperssability.exe
+C:\Users\user\source\repos\Comperssability\Comperssability\obj\Debug\Comperssability.pdb
+C:\Users\user\source\repos\Comperssability\Comperssability\bin\Debug\LZStringCSharp.dll
+C:\Users\user\source\repos\Comperssability\Comperssability\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\Comperssability\Comperssability\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\source\repos\Comperssability\Comperssability\obj\Debug\Comperssability.csproj.CopyComplete
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\bin\Debug\Comperssability.exe.config
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\bin\Debug\Comperssability.exe
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\bin\Debug\Comperssability.pdb
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\bin\Debug\LZStringCSharp.dll
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability.csprojAssemblyReference.cache
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\obj\Debug\MainWindow.g.cs
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\obj\Debug\App.g.cs
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability_MarkupCompile.cache
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability_MarkupCompile.lref
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\obj\Debug\MainWindow.baml
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability.g.resources
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability.Properties.Resources.resources
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability.csproj.GenerateResource.cache
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability.csproj.CopyComplete
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability.exe
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability.pdb
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\bin\Debug\Comperssability.exe.config
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\bin\Debug\Comperssability.exe
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\bin\Debug\Comperssability.pdb
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\bin\Debug\LZStringCSharp.dll
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\bin\Debug\RandomEnumerableExtensions.dll
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability_MarkupCompile.cache
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability_MarkupCompile.lref
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability.g.resources
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability.Properties.Resources.resources
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability.csproj.CopyComplete
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability.exe
+C:\Users\user\Desktop\Comperssability\Comperssability\Comperssability\obj\Debug\Comperssability.pdb
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\bin\Debug\Comperssability.exe.config
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\bin\Debug\Comperssability.exe
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\bin\Debug\Comperssability.pdb
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\bin\Debug\LZStringCSharp.dll
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\bin\Debug\RandomEnumerableExtensions.dll
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\obj\Debug\Comperssability.csproj.AssemblyReference.cache
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\obj\Debug\Comperssability.exe.config
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\obj\Debug\MainWindow.g.cs
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\obj\Debug\App.g.cs
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\obj\Debug\Comperssability_MarkupCompile.cache
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\obj\Debug\Comperssability_MarkupCompile.lref
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\obj\Debug\MainWindow.baml
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\obj\Debug\Comperssability.g.resources
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\obj\Debug\Comperssability.Properties.Resources.resources
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\obj\Debug\Comperssability.csproj.GenerateResource.cache
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\obj\Debug\Comperssability.csproj.CoreCompileInputs.cache
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\obj\Debug\.8CB1D45D.Up2Date
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\obj\Debug\Comperssability.exe
+C:\Users\Oleksii\Desktop\Comperssability\+Comperssability\obj\Debug\Comperssability.pdb

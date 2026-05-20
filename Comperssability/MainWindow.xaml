@@ -1,0 +1,124 @@
+﻿<Window x:Class="Comperssability.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Comperssability"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="130"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Button Height="20" Width="50" Grid.Row="20" Click="Button_Click">Start</Button>
+        </Grid>
+        <Grid Grid.Column="1">
+            <TabControl>
+                <TabItem Header="Inverted texts by chars">
+                    <DataGrid Name="IBCTextFilesDataGrid"
+          AutoGenerateColumns="False" 
+          ItemsSource="{Binding Source=IbcTextFiles}">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Name" Binding="{Binding Name}"/>
+                            <DataGridTextColumn Header="Content Size" Binding="{Binding ContentSize}"/>
+                            <DataGridTextColumn Header="Content Compressed Size" Binding="{Binding ContentCompressedSize}"/>
+                            <DataGridTextColumn Header="Inverted Content Size" Binding="{Binding InvertedContentSize}"/>
+                            <DataGridTextColumn Header="Inverted Content Compressed Size" Binding="{Binding InvertedContentCompressedSize}"/>
+                            <DataGridTextColumn Header="Content Compressibility Coeficient" Binding="{Binding ContentCompressibilityCoeficient}"/>
+                            <DataGridTextColumn Header="Inverted Content Compressibility Coeficient" Binding="{Binding InvertedContentCompressibilityCoeficient}"/>
+                            <DataGridTextColumn Header="Differnce" Binding="{Binding Differnce}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </TabItem>
+                <TabItem Header="Inverted texts by words">
+                    <DataGrid Name="IBWTextFilesDataGrid"
+          AutoGenerateColumns="False" 
+          ItemsSource="{Binding Source=IbwTextLists}">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Name" Binding="{Binding Name}"/>
+                            <DataGridTextColumn Header="Content Size" Binding="{Binding ContentSize}"/>
+                            <DataGridTextColumn Header="Content Compressed Size" Binding="{Binding ContentCompressedSize}"/>
+                            <DataGridTextColumn Header="Inverted Content Size" Binding="{Binding InvertedContentSize}"/>
+                            <DataGridTextColumn Header="Inverted Content Compressed Size" Binding="{Binding InvertedContentCompressedSize}"/>
+                            <DataGridTextColumn Header="Content Compressibility Coeficient" Binding="{Binding ContentCompressibilityCoeficient}"/>
+                            <DataGridTextColumn Header="Inverted Content Compressibility Coeficient" Binding="{Binding InvertedContentCompressibilityCoeficient}"/>
+                            <DataGridTextColumn Header="Differnce" Binding="{Binding Differnce}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </TabItem>
+                <TabItem Header="Inverted texts by sentences">
+                    <DataGrid Name="IBSTextFilesDataGrid"
+          AutoGenerateColumns="False" 
+          ItemsSource="{Binding Source=IbsTextFiles}">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Name" Binding="{Binding Name}"/>
+                            <DataGridTextColumn Header="Content Size" Binding="{Binding ContentSize}"/>
+                            <DataGridTextColumn Header="Content Compressed Size" Binding="{Binding ContentCompressedSize}"/>
+                            <DataGridTextColumn Header="Inverted Content Size" Binding="{Binding InvertedContentSize}"/>
+                            <DataGridTextColumn Header="Inverted Content Compressed Size" Binding="{Binding InvertedContentCompressedSize}"/>
+                            <DataGridTextColumn Header="Content Compressibility Coeficient" Binding="{Binding ContentCompressibilityCoeficient}"/>
+                            <DataGridTextColumn Header="Inverted Content Compressibility Coeficient" Binding="{Binding InvertedContentCompressibilityCoeficient}"/>
+                            <DataGridTextColumn Header="Differnce" Binding="{Binding Differnce}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </TabItem>
+                <TabItem Header="Divided text files">
+                    <DataGrid Name="DividedTextFilesDataGrid"
+          AutoGenerateColumns="False" 
+          ItemsSource="{Binding Source=DividedTextFiles}">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Name" Binding="{Binding NameFirstPart}"/>
+                            <DataGridTextColumn Header="1 Part Content Size" Binding="{Binding SizeFirstPart}"/>
+                            <DataGridTextColumn Header="2 Part Content Size " Binding="{Binding SizeSecondPart}"/>
+                            <DataGridTextColumn Header="1 Part Content Compressed Size" Binding="{Binding CompressedContentSizeFirstPart}"/>
+                            <DataGridTextColumn Header="2 Part Content Compressed Size" Binding="{Binding CompressedContentSizeSecondPart}"/>
+                            <DataGridTextColumn Header="1 Part Content Compressibility Coeficient" Binding="{Binding CompressibilityCoeficientFirstPart}"/>
+                            <DataGridTextColumn Header="2 Part Content Compressibility Coeficient" Binding="{Binding CompressibilityCoeficientSecondPart}"/>
+                            <DataGridTextColumn Header="Differnce" Binding="{Binding Difference}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </TabItem>
+                <TabItem Header="z scores">
+                    <DataGrid Name="ZScoresGrid"
+          AutoGenerateColumns="False" 
+          ItemsSource="{Binding Source = Zscores}">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Z score IBC" Binding="{Binding ZScoreIBC}"/>
+                            <DataGridTextColumn Header="Z score IBW" Binding="{Binding ZScoreIBW}"/>
+                            <DataGridTextColumn Header="Z score IBS" Binding="{Binding ZScoreIBS}"/>
+                            <DataGridTextColumn Header="Z score Divided" Binding="{Binding ZScoreDivided}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </TabItem>
+            </TabControl>
+        </Grid>
+
+    </Grid>
+</Window>
