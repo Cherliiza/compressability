@@ -133,7 +133,7 @@ Comperssability/
 
 ```bash
 git clone https://github.com/Cherliiza/compressability.git
-cd comperssability
+cd compressability
 ```
 
 
