@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Comperssability\TextCleaner\bin\Debug\TextCleaner.exe.config
+C:\Users\user\source\repos\Comperssability\TextCleaner\bin\Debug\TextCleaner.exe
+C:\Users\user\source\repos\Comperssability\TextCleaner\bin\Debug\TextCleaner.pdb
+C:\Users\user\source\repos\Comperssability\TextCleaner\obj\Debug\TextCleaner.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Comperssability\TextCleaner\obj\Debug\TextCleaner.exe
+C:\Users\user\source\repos\Comperssability\TextCleaner\obj\Debug\TextCleaner.pdb
+C:\Users\user\source\repos\Comperssability\TextCleaner\obj\Debug\TextCleaner.csprojAssemblyReference.cache

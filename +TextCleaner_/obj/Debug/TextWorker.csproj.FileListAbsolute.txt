@@ -1,0 +1,33 @@
+C:\Users\user\source\repos\Comperssability\TextCleaner\bin\Debug\TextCleaner.exe.config
+C:\Users\user\source\repos\Comperssability\TextCleaner\bin\Debug\TextCleaner.exe
+C:\Users\user\source\repos\Comperssability\TextCleaner\bin\Debug\TextCleaner.pdb
+C:\Users\user\source\repos\Comperssability\TextCleaner\obj\Debug\TextWorker.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Comperssability\TextCleaner\obj\Debug\TextCleaner.exe
+C:\Users\user\source\repos\Comperssability\TextCleaner\obj\Debug\TextCleaner.pdb
+C:\Users\user\source\repos\Comperssability\TextCleaner\obj\Debug\TextWorker.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Comperssability\TextCleaner\bin\Debug\LZStringCSharp.dll
+C:\Users\user\source\repos\Comperssability\TextCleaner\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\Comperssability\TextCleaner\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\source\repos\Comperssability\TextCleaner\obj\Debug\TextWorker.csproj.CopyComplete
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\TextCleaner\bin\Debug\TextCleaner.exe.config
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\TextCleaner\bin\Debug\TextCleaner.exe
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\TextCleaner\bin\Debug\TextCleaner.pdb
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\TextCleaner\bin\Debug\LZStringCSharp.dll
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\TextCleaner\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\TextCleaner\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\TextCleaner\obj\Debug\TextWorker.csprojAssemblyReference.cache
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\TextCleaner\obj\Debug\TextWorker.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\TextCleaner\obj\Debug\TextWorker.csproj.CopyComplete
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\TextCleaner\obj\Debug\TextCleaner.exe
+C:\Users\Bohdan\OneDrive - SoftServe, Inc\Desktop\univer\Comperssability\Comperssability\TextCleaner\obj\Debug\TextCleaner.pdb
+C:\Users\user\Desktop\Comperssability\Comperssability\TextCleaner\bin\Debug\TextCleaner.exe.config
+C:\Users\user\Desktop\Comperssability\Comperssability\TextCleaner\bin\Debug\TextCleaner.exe
+C:\Users\user\Desktop\Comperssability\Comperssability\TextCleaner\bin\Debug\TextCleaner.pdb
+C:\Users\user\Desktop\Comperssability\Comperssability\TextCleaner\bin\Debug\LZStringCSharp.dll
+C:\Users\user\Desktop\Comperssability\Comperssability\TextCleaner\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Comperssability\Comperssability\TextCleaner\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\Comperssability\Comperssability\TextCleaner\obj\Debug\TextWorker.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Comperssability\Comperssability\TextCleaner\obj\Debug\TextWorker.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Comperssability\Comperssability\TextCleaner\obj\Debug\TextWorker.csproj.CopyComplete
+C:\Users\user\Desktop\Comperssability\Comperssability\TextCleaner\obj\Debug\TextCleaner.exe
+C:\Users\user\Desktop\Comperssability\Comperssability\TextCleaner\obj\Debug\TextCleaner.pdb
