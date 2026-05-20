@@ -132,7 +132,7 @@ Comperssability/
 ### 2. Клонувати репозиторій
 
 ```bash
-git clone https://github.com/your-user/comperssability.git
+git clone https://github.com/Cherliiza/compressability.git
 cd comperssability
 ```
 
